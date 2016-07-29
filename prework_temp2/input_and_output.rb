@@ -1,0 +1,6 @@
+print "All"
+print " "
+print "in"
+print "a"
+print " "
+print "row"

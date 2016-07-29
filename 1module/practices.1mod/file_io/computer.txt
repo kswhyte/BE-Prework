@@ -1,0 +1,9 @@
+Computers are awesome.
+
+They are everywhere nowadays.
+
+I like my computer.
+
+I also like Turing.
+
+Test.new.find_args
